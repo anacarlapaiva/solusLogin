@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "id": "ana@gmail.com",
+      "name": "Ana",
+      "email": "ana@gmail.com",
+      "photos": [
+          {
+              "id": "1",
+              "urlPhoto": ""
+          }
+      ]
+    },
+    {
+      "id": "leo@gmail.com",
+      "name": "Leo",
+      "email": "leo@gmail.com",
+      "photos": [
+          {
+              "id": "2",
+              "urlPhoto": ""
+          }
+      ]
+    },
+    {
+      "id": "joao@gmail.com",
+      "name": "Joao",
+      "email": "joao@gmail.com",
+      "photos": [
+          {
+              "id": "3",
+              "urlPhoto": ""
+          }
+      ]
+    },
+    {
+      "id": "pedro@gmail.com",
+      "name": "Pedro",
+      "email": "pedro@gmail.com",
+      "photos": [
+          {
+              "id": "3",
+              "urlPhoto": ""
+          }
+      ]
+    },
+    {
+      "id": "maria@gmail.com",
+      "name": "Maria",
+      "email": "maria@gmail.com",
+      "photos": [
+          {
+              "id": "4",
+              "urlPhoto": ""
+          }
+      ]
+    },
+    {
+      "id": "caio@gmail.com",
+      "name": "Caio",
+      "email": "caio@gmail.com",
+      "photos": [
+          {
+              "id": "5",
+              "urlPhoto": ""
+          }
+      ]
+    }
+  ]
+  
+}
